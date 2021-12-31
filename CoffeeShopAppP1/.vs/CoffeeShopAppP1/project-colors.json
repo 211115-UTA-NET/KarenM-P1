@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "907d7364-ad77-451a-93c9-d64b5cf1dc94": {
+      "ProjectGuid": "907d7364-ad77-451a-93c9-d64b5cf1dc94",
+      "DisplayName": "CoffeeShopP1App.App",
+      "ColorIndex": 0
+    },
+    "cb3fd39d-bc1f-458c-8e38-6781d51d7368": {
+      "ProjectGuid": "cb3fd39d-bc1f-458c-8e38-6781d51d7368",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "1b84dce1-8e0f-4545-9ee4-1eedc535ae08": {
+      "ProjectGuid": "1b84dce1-8e0f-4545-9ee4-1eedc535ae08",
+      "DisplayName": "CoffeShopP1.Data",
+      "ColorIndex": 2
+    },
+    "dce02a03-1eb6-498a-b3dd-2584b9227144": {
+      "ProjectGuid": "dce02a03-1eb6-498a-b3dd-2584b9227144",
+      "DisplayName": "CoffeeShopP1App.Logic",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
