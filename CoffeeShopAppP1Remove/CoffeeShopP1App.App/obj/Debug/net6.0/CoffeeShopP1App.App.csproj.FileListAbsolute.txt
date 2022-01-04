@@ -1,0 +1,15 @@
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.App\bin\Debug\net6.0\CoffeeShopP1App.App.exe
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.App\bin\Debug\net6.0\CoffeeShopP1App.App.deps.json
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.App\bin\Debug\net6.0\CoffeeShopP1App.App.runtimeconfig.json
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.App\bin\Debug\net6.0\CoffeeShopP1App.App.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.App\bin\Debug\net6.0\ref\CoffeeShopP1App.App.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.App\bin\Debug\net6.0\CoffeeShopP1App.App.pdb
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.App\obj\Debug\net6.0\CoffeeShopP1App.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.App\obj\Debug\net6.0\CoffeeShopP1App.App.AssemblyInfoInputs.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.App\obj\Debug\net6.0\CoffeeShopP1App.App.AssemblyInfo.cs
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.App\obj\Debug\net6.0\CoffeeShopP1App.App.csproj.CoreCompileInputs.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.App\obj\Debug\net6.0\CoffeeShopP1App.App.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.App\obj\Debug\net6.0\ref\CoffeeShopP1App.App.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.App\obj\Debug\net6.0\CoffeeShopP1App.App.pdb
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.App\obj\Debug\net6.0\CoffeeShopP1App.App.genruntimeconfig.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.App\obj\Debug\net6.0\CoffeeShopP1App.App.csproj.AssemblyReference.cache
