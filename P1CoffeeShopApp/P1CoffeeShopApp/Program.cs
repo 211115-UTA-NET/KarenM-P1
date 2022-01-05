@@ -1,4 +1,5 @@
-﻿using Nest;
+﻿using CoffeeShopApp.DataInfrastructure;
+using Nest;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,7 +17,7 @@ namespace P1CoffeeShopApp
     {
         string connectionString = File.ReadAllText("C:/Users/mkare_wyte20y/Revature/DQL_Database.txt");
         //need to add exception for connection issue
-
+        //IRepository repository = new SqlRepository(connectionString); //need to fix
 
         public static void Main(string[] args)
         {
