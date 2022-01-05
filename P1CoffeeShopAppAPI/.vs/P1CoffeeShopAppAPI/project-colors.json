@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ebca3dbb-0843-4eeb-8a09-b5232dae7008": {
+      "ProjectGuid": "ebca3dbb-0843-4eeb-8a09-b5232dae7008",
+      "DisplayName": "P1CoffeeShopApp.API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
