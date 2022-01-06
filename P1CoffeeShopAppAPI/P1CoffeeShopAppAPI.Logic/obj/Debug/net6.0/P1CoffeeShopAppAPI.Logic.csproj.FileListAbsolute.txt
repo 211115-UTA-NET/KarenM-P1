@@ -1,0 +1,11 @@
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopAppAPI.Logic\bin\Debug\net6.0\P1CoffeeShopAppAPI.Logic.deps.json
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopAppAPI.Logic\bin\Debug\net6.0\P1CoffeeShopAppAPI.Logic.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopAppAPI.Logic\bin\Debug\net6.0\ref\P1CoffeeShopAppAPI.Logic.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopAppAPI.Logic\bin\Debug\net6.0\P1CoffeeShopAppAPI.Logic.pdb
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopAppAPI.Logic\obj\Debug\net6.0\P1CoffeeShopAppAPI.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopAppAPI.Logic\obj\Debug\net6.0\P1CoffeeShopAppAPI.Logic.AssemblyInfoInputs.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopAppAPI.Logic\obj\Debug\net6.0\P1CoffeeShopAppAPI.Logic.AssemblyInfo.cs
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopAppAPI.Logic\obj\Debug\net6.0\P1CoffeeShopAppAPI.Logic.csproj.CoreCompileInputs.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopAppAPI.Logic\obj\Debug\net6.0\P1CoffeeShopAppAPI.Logic.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopAppAPI.Logic\obj\Debug\net6.0\ref\P1CoffeeShopAppAPI.Logic.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopAppAPI.Logic\obj\Debug\net6.0\P1CoffeeShopAppAPI.Logic.pdb

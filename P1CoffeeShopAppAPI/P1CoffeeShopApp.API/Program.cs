@@ -1,3 +1,6 @@
+using P1CoffeeShopAPI.Data;
+using P1CoffeeShopAPI.DataStorage;
+
 var builder = WebApplication.CreateBuilder(args);
 
 //connection string

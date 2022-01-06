@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mkare_wyte20y\\Revature\\Project1\\KarenM-P1\\P1CoffeeShopAppAPI\\P1CoffeeShopApp.API.DataStorage\\P1CoffeeShopApp.API.DataStorage.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mkare_wyte20y\\Revature\\Project1\\KarenM-P1\\P1CoffeeShopAppAPI\\P1CoffeeShopApp.API.DataStorage\\P1CoffeeShopApp.API.DataStorage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mkare_wyte20y\\Revature\\Project1\\KarenM-P1\\P1CoffeeShopAppAPI\\P1CoffeeShopApp.API.DataStorage\\P1CoffeeShopApp.API.DataStorage.csproj",
+        "projectName": "P1CoffeeShopApp.API.DataStorage",
+        "projectPath": "C:\\Users\\mkare_wyte20y\\Revature\\Project1\\KarenM-P1\\P1CoffeeShopAppAPI\\P1CoffeeShopApp.API.DataStorage\\P1CoffeeShopApp.API.DataStorage.csproj",
+        "packagesPath": "C:\\Users\\mkare_wyte20y\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mkare_wyte20y\\Revature\\Project1\\KarenM-P1\\P1CoffeeShopAppAPI\\P1CoffeeShopApp.API.DataStorage\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mkare_wyte20y\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mkare_wyte20y\\Revature\\Project1\\KarenM-P1\\P1CoffeeShopAppAPI\\P1CoffeeShopAppAPI.Logic\\P1CoffeeShopAppAPI.Logic.csproj": {
+                "projectPath": "C:\\Users\\mkare_wyte20y\\Revature\\Project1\\KarenM-P1\\P1CoffeeShopAppAPI\\P1CoffeeShopAppAPI.Logic\\P1CoffeeShopAppAPI.Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mkare_wyte20y\\Revature\\Project1\\KarenM-P1\\P1CoffeeShopAppAPI\\P1CoffeeShopAppAPI.Logic\\P1CoffeeShopAppAPI.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mkare_wyte20y\\Revature\\Project1\\KarenM-P1\\P1CoffeeShopAppAPI\\P1CoffeeShopAppAPI.Logic\\P1CoffeeShopAppAPI.Logic.csproj",
+        "projectName": "P1CoffeeShopAppAPI.Logic",
+        "projectPath": "C:\\Users\\mkare_wyte20y\\Revature\\Project1\\KarenM-P1\\P1CoffeeShopAppAPI\\P1CoffeeShopAppAPI.Logic\\P1CoffeeShopAppAPI.Logic.csproj",
+        "packagesPath": "C:\\Users\\mkare_wyte20y\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mkare_wyte20y\\Revature\\Project1\\KarenM-P1\\P1CoffeeShopAppAPI\\P1CoffeeShopAppAPI.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mkare_wyte20y\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API.DataStorage\obj\Debug\net6.0\P1CoffeeShopApp.API.DataStorage.csproj.AssemblyReference.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API.DataStorage\obj\Debug\net6.0\P1CoffeeShopApp.API.DataStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API.DataStorage\obj\Debug\net6.0\P1CoffeeShopApp.API.DataStorage.AssemblyInfoInputs.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API.DataStorage\obj\Debug\net6.0\P1CoffeeShopApp.API.DataStorage.AssemblyInfo.cs
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API.DataStorage\obj\Debug\net6.0\P1CoffeeShopApp.API.DataStorage.csproj.CoreCompileInputs.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API.DataStorage\bin\Debug\net6.0\P1CoffeeShopApp.API.DataStorage.deps.json
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API.DataStorage\bin\Debug\net6.0\P1CoffeeShopApp.API.DataStorage.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API.DataStorage\bin\Debug\net6.0\ref\P1CoffeeShopApp.API.DataStorage.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API.DataStorage\bin\Debug\net6.0\P1CoffeeShopApp.API.DataStorage.pdb
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API.DataStorage\bin\Debug\net6.0\P1CoffeeShopAppAPI.Logic.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API.DataStorage\bin\Debug\net6.0\P1CoffeeShopAppAPI.Logic.pdb
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API.DataStorage\obj\Debug\net6.0\P1CoffeeShopApp.API.DataStorage.csproj.CopyComplete
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API.DataStorage\obj\Debug\net6.0\P1CoffeeShopApp.API.DataStorage.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API.DataStorage\obj\Debug\net6.0\ref\P1CoffeeShopApp.API.DataStorage.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API.DataStorage\obj\Debug\net6.0\P1CoffeeShopApp.API.DataStorage.pdb

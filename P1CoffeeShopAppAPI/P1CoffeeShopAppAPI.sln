@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1CoffeeShopApp.API", "P1CoffeeShopApp.API\P1CoffeeShopApp.API.csproj", "{EBCA3DBB-0843-4EEB-8A09-B5232DAE7008}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P1CoffeeShopApp.API", "P1CoffeeShopApp.API\P1CoffeeShopApp.API.csproj", "{EBCA3DBB-0843-4EEB-8A09-B5232DAE7008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1CoffeeShopAppAPI.Logic", "P1CoffeeShopAppAPI.Logic\P1CoffeeShopAppAPI.Logic.csproj", "{2FDCF053-8A7E-46C6-8E11-E6D7F403EE5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1CoffeeShopApp.API.DataStorage", "P1CoffeeShopApp.API.DataStorage\P1CoffeeShopApp.API.DataStorage.csproj", "{2C556545-3AEA-445C-8355-9FCFC1E491F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{EBCA3DBB-0843-4EEB-8A09-B5232DAE7008}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBCA3DBB-0843-4EEB-8A09-B5232DAE7008}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBCA3DBB-0843-4EEB-8A09-B5232DAE7008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FDCF053-8A7E-46C6-8E11-E6D7F403EE5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDCF053-8A7E-46C6-8E11-E6D7F403EE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDCF053-8A7E-46C6-8E11-E6D7F403EE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDCF053-8A7E-46C6-8E11-E6D7F403EE5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C556545-3AEA-445C-8355-9FCFC1E491F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C556545-3AEA-445C-8355-9FCFC1E491F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C556545-3AEA-445C-8355-9FCFC1E491F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C556545-3AEA-445C-8355-9FCFC1E491F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

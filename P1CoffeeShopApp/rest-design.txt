@@ -7,3 +7,5 @@ PUT - update location(product)
 GET - id
 PUT - store locatin details
 
+/api/Order :oder options and prices
+POST - coffe size with price
