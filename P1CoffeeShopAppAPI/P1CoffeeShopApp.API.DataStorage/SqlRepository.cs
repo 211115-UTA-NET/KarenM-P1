@@ -15,9 +15,23 @@ namespace P1CoffeeShopAPI.Data
             _connectionString = connectionString ?? throw new ArgumentNullException(nameof(connectionString));
         }
 
-        public Task<List<Customers>> GetAllCustomersAsync()
+        public async Task<List<Customers>> GetAllCustomersAsync()
         {
-            throw new NotImplementedException();
+            List<Customers> customers = new List<Customers>();
+            using SqlConnection connection = new(_connectionString);
+            await connection.OpenAsync();
+            using SqlCommand cmd = new SqlCommand(
+                //0       1
+                //id      name
+                @"SELECT * FROM Customer;", connection);
+            using SqlDataReader reader = cmd.ExecuteReader();
+            while (await reader.ReadAsync())
+            {
+
+                customers.Add(new(reader.GetInt32(0), reader.GetString(1), reader.GetString(2), reader.GetString(3), reader.GetString(4)));
+            }
+            await connection.CloseAsync();
+            return customers;
         }
 
         public async Task<List<Locations>> GetLocationsAsync()

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1CoffeeShopAppAPI.Logic", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1CoffeeShopApp.API.DataStorage", "P1CoffeeShopApp.API.DataStorage\P1CoffeeShopApp.API.DataStorage.csproj", "{2C556545-3AEA-445C-8355-9FCFC1E491F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1CoffeeShopAppAPI.LogicTests", "P1CoffeeShopAppAPI.LogicTests\P1CoffeeShopAppAPI.LogicTests.csproj", "{FD051976-A232-4DEF-8402-FC42EFC7E2C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2C556545-3AEA-445C-8355-9FCFC1E491F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C556545-3AEA-445C-8355-9FCFC1E491F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C556545-3AEA-445C-8355-9FCFC1E491F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD051976-A232-4DEF-8402-FC42EFC7E2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD051976-A232-4DEF-8402-FC42EFC7E2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD051976-A232-4DEF-8402-FC42EFC7E2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD051976-A232-4DEF-8402-FC42EFC7E2C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
