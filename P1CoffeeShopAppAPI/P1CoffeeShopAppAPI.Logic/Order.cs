@@ -18,8 +18,6 @@ namespace P1CoffeeShopAppAPI.Logic
             orderTotal = 0;
         }
 
-
-
         public void Ordering()
         {
             //Logic, Call methods in order of how i need them!
@@ -45,14 +43,10 @@ namespace P1CoffeeShopAppAPI.Logic
                         "****This is the menu****." +
                         "  Small Coffee $2.  Medium Coffee $4.  Large Coffee $8. ";
             s = s.Replace(".", ".\n");
-            //Console.WriteLine("*********************************************");
             Console.WriteLine(s);
             //Console.WriteLine("Please press enter to continue");
             //Console.ReadLine();
         }
-        //Console.WriteLine("1.Small Coffee@2.Medium Coffee@3Large Coffee");
-        //Console.WriteLine("**********************************************");
-
 
         private void itemSold(string coffeeSize, decimal price)
         {
@@ -61,10 +55,8 @@ namespace P1CoffeeShopAppAPI.Logic
             if (response.StartsWith("Y"))
             {
 
-
                 Console.WriteLine("How many coffees would you like?");
                 string numItems = Console.ReadLine();
-
 
                 try
                 {
@@ -95,18 +87,14 @@ namespace P1CoffeeShopAppAPI.Logic
             {
                 Console.WriteLine("Oh you dont want any coffee?");
             }
-
-
         }
         private void coffeeCartTotal()
         {
             Console.WriteLine($"Current total is {orderTotal:C2}!");
         }
 
-
         private static void displayGoodbyeMessage()
         {
-
             Console.WriteLine("Have a wonderul day");
             Console.WriteLine("Goodbybe");
             Console.ReadLine();

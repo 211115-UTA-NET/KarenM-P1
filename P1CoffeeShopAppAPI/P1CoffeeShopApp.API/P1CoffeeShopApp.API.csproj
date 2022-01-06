@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Order.UnitTest\Order.UnitTest.csproj" />
     <ProjectReference Include="..\P1CoffeeShopApp.API.DataStorage\P1CoffeeShopApp.API.DataStorage.csproj" />
   </ItemGroup>
 

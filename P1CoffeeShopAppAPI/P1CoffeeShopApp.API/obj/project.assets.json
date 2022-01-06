@@ -674,6 +674,15 @@
           }
         }
       },
+      "Order.UnitTest/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Order.UnitTest.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Order.UnitTest.dll": {}
+        }
+      },
       "P1CoffeeShopApp.API.DataStorage/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -2530,6 +2539,11 @@
         "version.txt"
       ]
     },
+    "Order.UnitTest/1.0.0": {
+      "type": "project",
+      "path": "../Order.UnitTest/Order.UnitTest.csproj",
+      "msbuildProject": "../Order.UnitTest/Order.UnitTest.csproj"
+    },
     "P1CoffeeShopApp.API.DataStorage/1.0.0": {
       "type": "project",
       "path": "../P1CoffeeShopApp.API.DataStorage/P1CoffeeShopApp.API.DataStorage.csproj",
@@ -2544,6 +2558,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.Data.SqlClient >= 4.0.0",
+      "Order.UnitTest >= 1.0.0",
       "P1CoffeeShopApp.API.DataStorage >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -2575,6 +2590,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\mkare_wyte20y\\Revature\\Project1\\KarenM-P1\\P1CoffeeShopAppAPI\\Order.UnitTest\\Order.UnitTest.csproj": {
+              "projectPath": "C:\\Users\\mkare_wyte20y\\Revature\\Project1\\KarenM-P1\\P1CoffeeShopAppAPI\\Order.UnitTest\\Order.UnitTest.csproj"
+            },
             "C:\\Users\\mkare_wyte20y\\Revature\\Project1\\KarenM-P1\\P1CoffeeShopAppAPI\\P1CoffeeShopApp.API.DataStorage\\P1CoffeeShopApp.API.DataStorage.csproj": {
               "projectPath": "C:\\Users\\mkare_wyte20y\\Revature\\Project1\\KarenM-P1\\P1CoffeeShopAppAPI\\P1CoffeeShopApp.API.DataStorage\\P1CoffeeShopApp.API.DataStorage.csproj"
             }

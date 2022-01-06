@@ -11,6 +11,7 @@ namespace P1CoffeeShopAppAPI.Logic.Tests
     [TestClass()]
     public class OrderOrderTests
     {
+        
         [TestMethod()]
         public void OrderTest()
         {
@@ -20,6 +21,7 @@ namespace P1CoffeeShopAppAPI.Logic.Tests
         [TestMethod()]
         public void OrderingTest()
         {
+
             Assert.Fail();
         }
     }
