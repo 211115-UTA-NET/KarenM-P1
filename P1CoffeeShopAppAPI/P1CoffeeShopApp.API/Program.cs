@@ -4,7 +4,10 @@ using P1CoffeeShopAPI.DataStorage;
 var builder = WebApplication.CreateBuilder(args);
 
 //connection string
-string connectionString = await File.ReadAllTextAsync("C:/Users/mkare_wyte20y/Revature/DQL_Database.txt");
+string connectionString = await File.ReadAllTextAsync("C:/Users/mkare_wyte20y/Revature/SQL_Database.txt");
+
+//connetion builder 1/6/2022 recordings
+//json add the connection string there and call it on program.cs
 builder.Services.AddControllers();
 // Add services to the container.
 
