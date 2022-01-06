@@ -3,11 +3,16 @@ using P1CoffeeShopAPI.DataStorage;
 
 var builder = WebApplication.CreateBuilder(args);
 
-//connection string
-string connectionString = await File.ReadAllTextAsync("C:/Users/mkare_wyte20y/Revature/SQL_Database.txt");
+//Project1 way to connect
+string connectionString = builder.Configuration.GetConnectionString("SQLDatabase");
 
-//connetion builder 1/6/2022 recordings
-//json add the connection string there and call it on program.cs
+
+//connection string for project 0
+//string connectionString = await File.ReadAllTextAsync("C:/Users/mkare_wyte20y/Revature/SQL_Database.txt");
+//IRepository repository = new IRepository();
+
+bool prettyPrinJson = builder.Configuration.GetValue<string>("PrettyPrintJsonOutput") == "true";
+
 builder.Services.AddControllers();
 // Add services to the container.
 
