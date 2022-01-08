@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\P1CoffeeShopApp",
-    "\\P1CoffeeShopApp\\P1CoffeeShopApp.DataInfrastructure"
+    "\\P1CoffeeShopAppAPI",
+    "\\P1CoffeeShopAppAPI\\P1CoffeeShopApp.API.DataStorage"
   ],
-  "SelectedNode": "\\P1CoffeeShopApp\\P1CoffeeShopApp.DataInfrastructure\\IRepository.cs",
+  "SelectedNode": "\\P1CoffeeShopAppAPI\\P1CoffeeShopApp.API.DataStorage\\IRepository.cs",
   "PreviewInSolutionExplorer": false
 }
