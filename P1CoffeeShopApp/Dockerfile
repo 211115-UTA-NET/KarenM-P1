@@ -1,16 +1,13 @@
 FROM mcr.microsoft.com/dotnet/sdk:6.0
 #FROM <repo>/<user>/<image>:<tag>(defaults to "latest")
-#FROM node:12-alpine
 
-
-# COPY bin/Release/net6.0/publish/ App/
-# #COPY <relative path from Dockerfile to target files> <target location in image>
-
+# COPY bin/Release/net6.0/publish/ P1CoffeeShopApp/
+# #COPY <relative path from Dockerfile to target files(no spaces)> <target location in image>
 
 # WORKDIR /App
 # #Change the images current working directory
 
-WORKDIR /App
+WORKDIR /P1CoffeeShopApp
 #copy takes two arugments
 COPY . .
 
