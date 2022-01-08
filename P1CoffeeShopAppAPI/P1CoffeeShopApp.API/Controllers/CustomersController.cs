@@ -16,7 +16,7 @@ namespace P1CoffeeShopApp.API.Controllers
             _repository = repository;
         }
 
-        [HttpGet]// (":{name}")]//???
+        [HttpPost]// (":{name}")]//???
 
         public async Task<List<Customers>> GetAllCustomersAsyn([FromQuery] string name)
         {

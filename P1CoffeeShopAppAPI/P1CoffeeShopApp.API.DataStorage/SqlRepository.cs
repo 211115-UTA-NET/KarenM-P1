@@ -21,9 +21,10 @@ namespace P1CoffeeShopAPI.Data
             using SqlConnection connection = new(_connectionString);
             await connection.OpenAsync();
             using SqlCommand cmd = new SqlCommand(
-                //0       1
-                //id      name
-                @"SELECT * FROM Customer;", connection);
+            //0       1
+            //id      name
+            //@"SELECT * FROM Customer;", connection);
+            @"INSERT IJNTO Customer;", connection);
             using SqlDataReader reader = cmd.ExecuteReader();
             while (await reader.ReadAsync())
             {

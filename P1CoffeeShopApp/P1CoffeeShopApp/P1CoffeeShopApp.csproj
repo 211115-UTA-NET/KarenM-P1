@@ -14,7 +14,11 @@
   <ItemGroup>
     <ProjectReference Include="..\P1CoffeeShopApp.DataInfrastructure\P1CoffeeShopApp.DataInfrastructure.csproj" />
     <ProjectReference Include="..\P1CoffeeShopApp.Logic\P1CoffeeShopApp.Logic.csproj" />
-    <ProjectReference Include="..\P1CoffeeShopAppAPI\P1CoffeeShopAppAPI.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOS\" />
+    <Folder Include="Exceptions\" />
   </ItemGroup>
 
 </Project>

@@ -59,3 +59,10 @@ C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeSh
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API\obj\Debug\net6.0\ref\P1CoffeeShopApp.API.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API\obj\Debug\net6.0\P1CoffeeShopApp.API.pdb
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API\obj\Debug\net6.0\P1CoffeeShopApp.API.genruntimeconfig.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API\bin\Debug\net6.0\Order.UnitTest.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API\bin\Debug\net6.0\Order.UnitTest.pdb
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\P1CoffeeShopApp.API\obj\Debug\net6.0\P1CoffeeShopApp.API.MvcApplicationPartsAssemblyInfo.cs

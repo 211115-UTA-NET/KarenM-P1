@@ -12,6 +12,8 @@ namespace P1CoffeeShopApp.API.Controllers
     {
         private readonly IRepository _repository;
         //Doing this keep this class unit testable
+
+        
         public OrderControllers(IRepository repository)
         {
             _repository = repository;
@@ -23,6 +25,7 @@ namespace P1CoffeeShopApp.API.Controllers
 
             List<Locations> locations = await _repository.GetLocationsAsync();
             return locations;
+            //return new JsonResults(locations);
         }
     }
 }

@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using CoffeeShopApp.Logic;
 
 
 Console.WriteLine("Hello, World!");
@@ -15,12 +15,14 @@ namespace P1CoffeeShopApp
 {
     public class Program
     {
-        string connectionString = File.ReadAllText("C:/Users/mkare_wyte20y/Revature/DQL_Database.txt");
+        public static readonly HttpClient httpClient = new ();
+        //string connectionString = File.ReadAllText("C:/Users/mkare_wyte20y/Revature/DQL_Database.txt");
         //need to add exception for connection issue
         //IRepository repository = new SqlRepository(connectionString); //need to fix
 
-        public static void Main(string[] args)
+        public static async void Main(string[] args)
         {
+            //HttpResponseMessage respone = await HttpClient.GetAsync($"https://localhost:7276/api/");
 
             //IRepository repository = new SqlRepository(connectionString);//need to fix
             ////Reading to database using DataReader
@@ -54,9 +56,9 @@ namespace P1CoffeeShopApp
 
 
 
-            ////Version 3
-            //Customer newCustomer = new Customer();
-            //newCustomer.CustomerName();
+            //Version 3
+            Customers newCustomers = new Customers();
+            newCustomers.Customers();
 
 
             //version 4 12/21
