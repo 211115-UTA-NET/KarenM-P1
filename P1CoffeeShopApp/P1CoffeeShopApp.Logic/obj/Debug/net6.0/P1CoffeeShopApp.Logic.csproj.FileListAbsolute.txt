@@ -9,3 +9,4 @@ C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopA
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopApp.Logic\obj\Debug\net6.0\P1CoffeeShopApp.Logic.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopApp.Logic\obj\Debug\net6.0\ref\P1CoffeeShopApp.Logic.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopApp.Logic\obj\Debug\net6.0\P1CoffeeShopApp.Logic.pdb
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopApp.Logic\obj\Debug\net6.0\P1CoffeeShopApp.Logic.csproj.AssemblyReference.cache

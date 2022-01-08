@@ -119,7 +119,7 @@ namespace P1CoffeeShopApp
         {
 
             Console.WriteLine("Have a wonderul day");
-            Console.WriteLine("Goodbybe");
+            Console.WriteLine("Goodbye");
             Console.ReadLine();
         }
 
