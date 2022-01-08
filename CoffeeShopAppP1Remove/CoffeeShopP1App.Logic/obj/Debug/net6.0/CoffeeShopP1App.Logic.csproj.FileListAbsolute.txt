@@ -1,4 +1,0 @@
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.Logic\obj\Debug\net6.0\CoffeeShopP1App.Logic.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.Logic\obj\Debug\net6.0\CoffeeShopP1App.Logic.AssemblyInfoInputs.cache
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.Logic\obj\Debug\net6.0\CoffeeShopP1App.Logic.AssemblyInfo.cs
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\CoffeeShopAppP1\CoffeeShopP1App.Logic\obj\Debug\net6.0\CoffeeShopP1App.Logic.csproj.CoreCompileInputs.cache
