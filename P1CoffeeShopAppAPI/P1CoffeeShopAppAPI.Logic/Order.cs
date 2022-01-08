@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace P1CoffeeShopAppAPI.Logic
 {
-
+ 
     public class Order
     {
         //field for adding total coffees together.
@@ -39,13 +40,14 @@ namespace P1CoffeeShopAppAPI.Logic
         //Diplay options
         private void welcomeMessage()
         {
+
             string s = "\n" + "Welcome to the coffee shop." +
                         "****This is the menu****." +
                         "  Small Coffee $2.  Medium Coffee $4.  Large Coffee $8. ";
             s = s.Replace(".", ".\n");
             Console.WriteLine(s);
-            //Console.WriteLine("Please press enter to continue");
-            //Console.ReadLine();
+            Console.WriteLine("Please press enter to continue");
+            Console.ReadLine();
         }
 
         private void itemSold(string coffeeSize, decimal price)

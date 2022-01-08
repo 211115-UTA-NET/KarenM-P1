@@ -1,0 +1,6 @@
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopApp.LogicTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopApp.LogicTests\obj\Debug\net6.0\P1CoffeeShopApp.LogicTests.csproj.AssemblyReference.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopApp.LogicTests\obj\Debug\net6.0\P1CoffeeShopApp.LogicTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopApp.LogicTests\obj\Debug\net6.0\P1CoffeeShopApp.LogicTests.AssemblyInfoInputs.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopApp.LogicTests\obj\Debug\net6.0\P1CoffeeShopApp.LogicTests.AssemblyInfo.cs
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopApp.LogicTests\obj\Debug\net6.0\P1CoffeeShopApp.LogicTests.csproj.CoreCompileInputs.cache

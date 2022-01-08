@@ -41,19 +41,30 @@ namespace P1CoffeeShopApp
         //Diplay options
         private void welcomeMessage()
         {
+
+            //List<string> coffeeSize = new List<string>();
+            //coffeeSize.Add("Small Coffee $2");
+            //coffeeSize.Add("Medium Coffee $4");
+            //coffeeSize.Add("Large Coffee $8");
+            //foreach (string item in coffeeSize)
+            //{
+
+            //    Console.WriteLine("1" + coffeeSize[0]);
+            //    Console.WriteLine("2" + coffeeSize[1]);
+            //    Console.WriteLine("3" + coffeeSize[2]);
+
+
+            //}
             string s = "\n" + "Welcome to the coffee shop." +
                         "****This is the menu****." +
                         "  Small Coffee $2.  Medium Coffee $4.  Large Coffee $8. ";
             s = s.Replace(".", ".\n");
             //Console.WriteLine("*********************************************");
             Console.WriteLine(s);
-            //Console.WriteLine("Please press enter to continue");
-            //Console.ReadLine();
+            Console.WriteLine("Please press enter to continue");
+            Console.ReadLine();
         }
-        //Console.WriteLine("1.Small Coffee@2.Medium Coffee@3Large Coffee");
-        //Console.WriteLine("**********************************************");
-
-
+        
         private void itemSold(string coffeeSize, decimal price)
         {
             Console.WriteLine($"Would you like to order {coffeeSize} for {price:C2} (y/n)");

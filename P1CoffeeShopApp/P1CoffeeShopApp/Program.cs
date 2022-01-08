@@ -8,20 +8,20 @@ using System.Threading.Tasks;
 using CoffeeShopApp.Logic;
 
 
-Console.WriteLine("Hello, World!");
-Console.Beep(); //REMOVE BEFORE PROJECT IS DUE!
+
 
 namespace P1CoffeeShopApp
 {
     public class Program
     {
-        public static readonly HttpClient httpClient = new ();
+        //public static readonly HttpClient httpClient = new ();
         //string connectionString = File.ReadAllText("C:/Users/mkare_wyte20y/Revature/DQL_Database.txt");
         //need to add exception for connection issue
         //IRepository repository = new SqlRepository(connectionString); //need to fix
 
-        public static async void Main(string[] args)
+        public static /*async*/ void Main(string[] args)
         {
+            
             //HttpResponseMessage respone = await HttpClient.GetAsync($"https://localhost:7276/api/");
 
             //IRepository repository = new SqlRepository(connectionString);//need to fix
@@ -56,16 +56,17 @@ namespace P1CoffeeShopApp
 
 
 
-            //Version 3
-            Customers newCustomers = new Customers();
-            newCustomers.Customers();
+            ////Version 3
+            //Customers newCustomers = new Customers();
+            //newCustomers.customers();
 
 
             //version 4 12/21
             Order newOrder = new Order();
             newOrder.Ordering();
 
-
+            //Locations newLocations = new Locations();
+            //newLocations.locationId();
             Console.ReadKey();//
         }
 

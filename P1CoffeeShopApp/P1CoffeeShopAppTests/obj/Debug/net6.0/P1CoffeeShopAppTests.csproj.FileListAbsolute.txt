@@ -2,11 +2,6 @@ C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopA
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\testhost.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\P1CoffeeShopApp.deps.json
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\P1CoffeeShopApp.runtimeconfig.json
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\P1CoffeeShopAppAPI.deps.json
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\P1CoffeeShopAppAPI.runtimeconfig.json
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\appsettings.json
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\P1CoffeeShopAppAPI.exe
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\P1CoffeeShopApp.exe
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\testhost.exe
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -32,7 +27,6 @@ C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopA
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
@@ -45,9 +39,6 @@ C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopA
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\Nest.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\NuGet.Frameworks.dll
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
@@ -135,11 +126,9 @@ C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopA
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\P1CoffeeShopApp.DataInfrastructure.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\P1CoffeeShopApp.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\P1CoffeeShopApp.Logic.dll
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\P1CoffeeShopAppAPI.dll
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\P1CoffeeShopApp.pdb
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\P1CoffeeShopApp.DataInfrastructure.pdb
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\P1CoffeeShopApp.Logic.pdb
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\bin\Debug\net6.0\P1CoffeeShopAppAPI.pdb
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\obj\Debug\net6.0\P1CoffeeShopAppTests.csproj.AssemblyReference.cache
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\obj\Debug\net6.0\P1CoffeeShopAppTests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\P1CoffeeShopAppTests\obj\Debug\net6.0\P1CoffeeShopAppTests.AssemblyInfoInputs.cache
