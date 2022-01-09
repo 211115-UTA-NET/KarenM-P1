@@ -1,0 +1,15 @@
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\bin\Release\net6.0\P1CoffeeShopApp.UI.exe
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\bin\Release\net6.0\P1CoffeeShopApp.UI.deps.json
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\bin\Release\net6.0\P1CoffeeShopApp.UI.runtimeconfig.json
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\bin\Release\net6.0\P1CoffeeShopApp.UI.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\bin\Release\net6.0\ref\P1CoffeeShopApp.UI.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\bin\Release\net6.0\P1CoffeeShopApp.UI.pdb
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\obj\Release\net6.0\P1CoffeeShopApp.UI.csproj.AssemblyReference.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\obj\Release\net6.0\P1CoffeeShopApp.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\obj\Release\net6.0\P1CoffeeShopApp.UI.AssemblyInfoInputs.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\obj\Release\net6.0\P1CoffeeShopApp.UI.AssemblyInfo.cs
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\obj\Release\net6.0\P1CoffeeShopApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\obj\Release\net6.0\P1CoffeeShopApp.UI.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\obj\Release\net6.0\ref\P1CoffeeShopApp.UI.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\obj\Release\net6.0\P1CoffeeShopApp.UI.pdb
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\obj\Release\net6.0\P1CoffeeShopApp.UI.genruntimeconfig.cache

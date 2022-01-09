@@ -1,0 +1,5 @@
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\bin\Release\net6.0\publish\P1CoffeeShopApp.UI.exe
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\bin\Release\net6.0\publish\P1CoffeeShopApp.UI.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\bin\Release\net6.0\publish\P1CoffeeShopApp.UI.deps.json
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\bin\Release\net6.0\publish\P1CoffeeShopApp.UI.runtimeconfig.json
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\bin\Release\net6.0\publish\P1CoffeeShopApp.UI.pdb
