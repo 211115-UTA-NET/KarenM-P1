@@ -7,7 +7,6 @@ bool prettyPrinJson = builder.Configuration.GetValue<string>("PrettyPrintJsonOut
 //Project1 way to connect
 string connectionString = builder.Configuration.GetConnectionString("SQLDatabase");
 
-
 //connection string for project 0
 //string connectionString = await File.ReadAllTextAsync("C:/Users/mkare_wyte20y/Revature/SQL_Database.txt");
 //IRepository repository = new IRepository(connectionString);

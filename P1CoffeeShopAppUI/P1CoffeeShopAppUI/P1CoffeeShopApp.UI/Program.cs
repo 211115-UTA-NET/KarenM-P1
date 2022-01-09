@@ -10,6 +10,8 @@ namespace P1CoffeeShopApp.UI
 
         public static /*async*/ void Main(string[] args)
         {
+            //Uri server = new("localhost");
+            Uri server = new("zureurlwemade");
 
             //HttpResponseMessage respone = await HttpClient.GetAsync($"https://localhost:7276/api/");
 
