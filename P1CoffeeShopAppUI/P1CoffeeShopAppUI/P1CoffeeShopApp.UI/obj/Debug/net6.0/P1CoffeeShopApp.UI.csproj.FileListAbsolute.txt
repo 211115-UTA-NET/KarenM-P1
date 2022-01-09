@@ -1,0 +1,4 @@
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\obj\Debug\net6.0\P1CoffeeShopApp.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\obj\Debug\net6.0\P1CoffeeShopApp.UI.AssemblyInfoInputs.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\obj\Debug\net6.0\P1CoffeeShopApp.UI.AssemblyInfo.cs
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppUI\P1CoffeeShopAppUI\P1CoffeeShopApp.UI\obj\Debug\net6.0\P1CoffeeShopApp.UI.csproj.CoreCompileInputs.cache
