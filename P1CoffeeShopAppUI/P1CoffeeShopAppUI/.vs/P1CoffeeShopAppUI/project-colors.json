@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6cf375f-c4fc-49c4-906c-da34aa879b74": {
+      "ProjectGuid": "e6cf375f-c4fc-49c4-906c-da34aa879b74",
+      "DisplayName": "P1CoffeeShopApp.UI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
