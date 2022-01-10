@@ -5,6 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 bool prettyPrinJson = builder.Configuration.GetValue<string>("PrettyPrintJsonOutput") == "true";
 
 //Project1 way to connect
+//Used secretes for the connection.
 string connectionString = builder.Configuration.GetConnectionString("SQLDatabase");
 
 //connection string for project 0

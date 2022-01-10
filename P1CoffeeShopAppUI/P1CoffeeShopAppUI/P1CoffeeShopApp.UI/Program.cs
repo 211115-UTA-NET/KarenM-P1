@@ -11,8 +11,8 @@ namespace P1CoffeeShopApp.UI
         public static /*async*/ void Main(string[] args)
         {
             //Uri server = new("localhost");
-            Uri server = new("zureurlwemade");
-
+            Uri server = new("https://p1coffeeshopwebappservices.azurewebsites.net");
+            
             //HttpResponseMessage respone = await HttpClient.GetAsync($"https://localhost:7276/api/");
 
             //IRepository repository = new SqlRepository(connectionString);//need to fix

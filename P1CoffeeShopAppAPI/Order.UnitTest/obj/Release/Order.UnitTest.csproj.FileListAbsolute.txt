@@ -1,0 +1,17 @@
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\bin\Release\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\bin\Release\Order.UnitTest.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\bin\Release\Order.UnitTest.pdb
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\bin\Release\Remotion.Linq.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\bin\Release\Remotion.Linq.xml
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\obj\Release\Order.UnitTest.csproj.AssemblyReference.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\obj\Release\Order.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\obj\Release\Order.UnitTest.csproj.CopyComplete
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\obj\Release\Order.UnitTest.dll
+C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopAppAPI\Order.UnitTest\obj\Release\Order.UnitTest.pdb
