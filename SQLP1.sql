@@ -1,13 +1,13 @@
+--I will be using the origial database I first created 211115SQL-KarenM
+--How to create new database
+--CREATE DATABASE CoffeeShop
 --DROP
 --DROP DATABASE CoffeeShop
-
 DROP TABLE Store;
 DROP TABLE Coffee;
 DROP TABLE [Order];
 DROP TABLE Customer;
 
---To create database
---CREATE DATABASE CoffeeShop
 
 -----Tables
 CREATE TABLE Store
