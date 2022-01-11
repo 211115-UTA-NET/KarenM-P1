@@ -48,15 +48,7 @@ jobs:
           key: ${{ runner.os }}-nuget-${{ hashFiles('**/packages.lock.json') }}
           restore-keys: |
             ${{ runner.os }}-nuget-
-      - name: Restore
-        run: |
-          cd P1CoffeeShopApp.API
-          dotnet restore
-      - name: Build with dotnet
-        run: |
-          cd P1CoffeeShopApp.API
-          dotnet build --no-restore -c Release
-      - name: dotnet publish
+
         run: |
           cd P1CoffeeShopApp.API
           dotnet publish --no-build -c Release -o '${{env.DOTNET_ROOT}}/myapp'
