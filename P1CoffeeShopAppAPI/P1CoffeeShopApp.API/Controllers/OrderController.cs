@@ -27,6 +27,7 @@ namespace P1CoffeeShopApp.API.Controllers
             return locations;
             //return new JsonResults(locations);
         }
+
     }
 }
 

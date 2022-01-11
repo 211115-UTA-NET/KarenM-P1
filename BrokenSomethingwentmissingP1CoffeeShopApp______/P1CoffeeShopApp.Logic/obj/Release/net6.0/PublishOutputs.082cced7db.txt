@@ -1,3 +1,0 @@
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\publish\P1CoffeeShopApp.Logic.dll
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\publish\P1CoffeeShopApp.Logic.deps.json
-C:\Users\mkare_wyte20y\Revature\Project1\KarenM-P1\P1CoffeeShopApp\publish\P1CoffeeShopApp.Logic.pdb

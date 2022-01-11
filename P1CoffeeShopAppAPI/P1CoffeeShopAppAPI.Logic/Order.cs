@@ -24,14 +24,21 @@ namespace P1CoffeeShopAppAPI.Logic
             //Logic, Call methods in order of how i need them!
             welcomeMessage();       //First
 
+            ////Want to give user total after every order
+            //itemSold("Small Coffee", 2m);
+            //coffeeCartTotal();
+            //itemSold("Medium Coffee", 4m);
+            //coffeeCartTotal();
+            //itemSold("Large Coffee", 8m);
+            //coffeeCartTotal();
 
-            //Want to give user total after every order
-            itemSold("Small Coffee", 2m);
+            itemSold("1", 2m);
             coffeeCartTotal();
-            itemSold("Medium Coffee", 4m);
+            itemSold("2", 4m);
             coffeeCartTotal();
-            itemSold("Large Coffee", 8m);
+            itemSold("3", 8m);
             coffeeCartTotal();
+
 
             displayGoodbyeMessage();    //Last        
         }
@@ -52,6 +59,8 @@ namespace P1CoffeeShopAppAPI.Logic
 
         private void itemSold(string coffeeSize, decimal price)
         {
+            Console.WriteLine("What would you like to order?");
+
             Console.WriteLine($"Would you like to order {coffeeSize} for {price:C2} (y/n)");
             string response = Console.ReadLine().ToUpper();
             if (response.StartsWith("Y"))

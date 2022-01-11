@@ -48,8 +48,9 @@ namespace P1CoffeeShopApp.UI
 
 
             ////Version 3
-            //Customers newCustomers = new Customers();
-            //newCustomers.customers();
+            Customers newCustomers = new Customers();
+            newCustomers.customerName();
+            
 
 
             //version 4 12/21

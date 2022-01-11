@@ -22,19 +22,19 @@ namespace P1CoffeeShopAPI.Data
             await connection.OpenAsync();
             using SqlCommand cmd = new SqlCommand(
 
-            ////0       1
-            ////id      name
-            //@"SELECT * FROM Customer;", connection);
-            @"INSERT INTO [dbo].[Customers]
-           ([FirstName]
-           ,[LastName]
-           ,[Email]
-           ,[Phone])
-     VALUES
-           (<FirstName, nvarchar(40),>
-           ,<LastName, nvarchar(20),>
-           ,<Email, nvarchar(20),>
-           ,<Phone, nvarchar(24),>)", connection);
+            //0       1
+            //id      name
+            @"INSTER INTO Customer;", connection);
+            //       @"INSERT INTO [dbo].[Customers]
+            //      ([FirstName]
+            //      ,[LastName]
+            //      ,[Email]
+            //      ,[Phone])
+            //VALUES
+            //      (<FirstName, nvarchar(40),>
+            //      ,<LastName, nvarchar(20),>
+            //      ,<Email, nvarchar(20),>
+            //      ,<Phone, nvarchar(24),>)", connection);
             using SqlDataReader reader = cmd.ExecuteReader();
             while (await reader.ReadAsync())
             {

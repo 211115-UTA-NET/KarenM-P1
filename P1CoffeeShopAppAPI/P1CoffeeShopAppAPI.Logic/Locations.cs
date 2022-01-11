@@ -14,7 +14,6 @@ namespace P1CoffeeShopAppAPI.Logic
         {
             locationId = ID;
            locationName = locationName;
-
         }
     }
 }
