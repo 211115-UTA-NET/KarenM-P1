@@ -17,11 +17,13 @@ namespace P1CoffeeShopApp.API.Controllers
         }
 
         [HttpGet]// (":{name}")]//???
+        public Task<List<Customers>> GetAllCustomers([FromQuery] string name)
 
-        public async Task<List<Customers>> GetAllCustomersAsyn([FromQuery] string name)
+        //public async Task<List<Customers>> GetAllCustomersAsyn([FromQuery] string name)
         {
             List<Customers> customers = new List<Customers>();
-            return customers;
+            return null;
+            //return customers;
             //await _repository.GetAllCustomersAsync(names);
         }
     }
