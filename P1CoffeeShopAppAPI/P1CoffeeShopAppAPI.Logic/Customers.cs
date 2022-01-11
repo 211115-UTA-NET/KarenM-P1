@@ -8,23 +8,23 @@ namespace P1CoffeeShopAppAPI.Logic
 {
     public class Customers
     {
-        private string customerName;
+        //private string customerName;
 
         private int customerID { get; }
-        private string firstName { get; set; }
-        private string lastName { get; set; }
-        public string email { get; set; }
-        private string phone { get; set; }
+        private string? firstName { get; set; }
+        private string? lastName { get; set; }
+        public string? email { get; set; }
+        private string? phone { get; set; }
 
         // public string customerName;
 
         public Customers(int customerID, string firstName, string lastName, string email, string phone)
         {
-            customerID = customerID;
-            firstName = firstName;
-            lastName = lastName;
-            email = email;
-            phone = phone;
+            this.customerID = customerID;
+            this.firstName = firstName;
+            this.lastName = lastName;
+            this.email = email;
+            this.phone = phone;
 
             
             //_accounts = new List<Accounts>();

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace P1CoffeeShopAppAPI.Logic
 {
- 
+
     public class Order
     {
         //field for adding total coffees together.

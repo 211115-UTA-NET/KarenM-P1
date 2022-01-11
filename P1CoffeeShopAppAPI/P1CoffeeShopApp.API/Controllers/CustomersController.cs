@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using P1CoffeeShopAPI.DataStorage;
 using P1CoffeeShopAppAPI.Logic;
+using System.Collections.Generic;
 
 namespace P1CoffeeShopApp.API.Controllers
 {
@@ -16,14 +17,13 @@ namespace P1CoffeeShopApp.API.Controllers
             _repository = repository;
         }
 
-        [HttpGet]// (":{name}")]//???
-        public Task<List<Customers>> GetAllCustomers([FromQuery] string name)
+        [HttpPost]// (":{name}")]//???
+        public List<Customers> GetAllCustomers([FromQuery] string name)
 
         //public async Task<List<Customers>> GetAllCustomersAsyn([FromQuery] string name)
         {
             List<Customers> customers = new List<Customers>();
-            return null;
-            //return customers;
+            return customers;
             //await _repository.GetAllCustomersAsync(names);
         }
     }

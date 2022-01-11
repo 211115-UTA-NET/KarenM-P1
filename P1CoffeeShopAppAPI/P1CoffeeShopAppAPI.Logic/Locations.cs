@@ -13,7 +13,7 @@ namespace P1CoffeeShopAppAPI.Logic
         public Locations(int ID, string locationName)
         {
             locationId = ID;
-           //locationName = locationName;
+           locationName = locationName;
 
         }
     }

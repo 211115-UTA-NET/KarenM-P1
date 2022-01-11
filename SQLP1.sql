@@ -83,6 +83,8 @@ VALUES
 (02, 'Spider', 'Man', 'spidy@gmail.com', '111-456-7890'),
 (03, 'Wonder', 'Woman', 'wonder@gmail.com', '222-456-7890');
 
+
+
 INSERT Store
 (storeID, storeLocation )
 VALUES
@@ -90,10 +92,12 @@ VALUES
 (02, 'New York'),
 (03, 'Wonderland');
 
+
+
+--This fixed my IDENTITY_INSERT OFF error
+SET IDENTITY_INSERT Customers ON;
+
 SELECT * FROM Store;
 SELECT * FROM Coffee;
 SELECT * FROM [Order];
 SELECT * FROM Customers;
-
---This fixed my IDENTITY_INSERT OFF error
-SET IDENTITY_INSERT Customers ON;
